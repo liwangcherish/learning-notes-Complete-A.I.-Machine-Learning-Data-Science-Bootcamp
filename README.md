@@ -1,1 +1,1 @@
-# learning-notes-Complete-A.I.-Machine-Learning-Data-Science-Bootcamp
+This is the learning notes for zero-to-mastery-ml-master
